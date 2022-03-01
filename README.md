@@ -11,7 +11,7 @@ La labor de este script es mostrarte las coordenadas actuales del cursor del mou
 
 ### ¿Cómo funciona? :
 
-Es simple. Debes colocar el archivo `MouseFinderTool.rpy` en el interior de la carpeta `game` de tu proyecto. Una vez que lo coloques en esa ruta, funcionará automáticamente cuando arranques tu juego.
+Es simple. Debes colocar el archivo `MouseFinderTool.rpyc` en el interior de la carpeta `game` de tu proyecto. Una vez que lo coloques en esa ruta, funcionará automáticamente cuando arranques tu juego.
 Cuando presiones "Nueva partida" o en el momento de cargar una partida existente, se mostrará un recuadro con las coordenadas actuales del cursor. Este recuadro se ve algo así:
 
 ![EQ_Screenshot_0002](https://user-images.githubusercontent.com/77955772/155878496-bcdfc0b8-6b7f-450e-bcd2-4b4cfefc6d33.png)
