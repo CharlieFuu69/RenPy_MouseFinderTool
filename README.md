@@ -17,7 +17,9 @@ Cuando presiones "Nueva partida" o en el momento de cargar una partida existente
 ![EQ_Screenshot_0002](https://user-images.githubusercontent.com/77955772/155878496-bcdfc0b8-6b7f-450e-bcd2-4b4cfefc6d33.png)
 
 Por supuesto, para tu comodidad, el recuadro se puede arrastrar y ocultar de la interfaz sin mucho lío de por medio. También hay una opción para ocultarla si así lo deseas =)
-Para apuntar coordenadas, se recomienda confiar más en las coordenadas de píxeles por las coordenadas relativas, pues este último es levemente menos preciso.
+El estilo de la ventana depende del tema de UI de tu juego, asi que puede variar al usarse en un proyecto u otro.
+
+![ic_warning](https://user-images.githubusercontent.com/77955772/143798585-2a612721-a193-4ec0-af5f-811c6bef6c4c.png) Para apuntar coordenadas, se recomienda confiar más en las coordenadas de píxeles que en las coordenadas relativas, pues este último es levemente menos preciso.
 
 ---
 
