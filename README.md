@@ -1,3 +1,11 @@
+[cc-by]: http://creativecommons.org/licenses/by/4.0/
+[renpy]: https://renpy.org/
+
+[cc-by-shield]: https://img.shields.io/badge/Licencia-CC--BY%204.0-brightgreen
+[renpy-shield]: https://img.shields.io/badge/Software-Ren'Py-red
+
+[![CC BY 4.0][cc-by-shield]][cc-by] [![RenPy][renpy-shield]][renpy]
+
 # Herramienta "MouseFinderTool" para juegos Ren'Py
 
 ¡Hola! Este script es una pequeña herramienta de asistencia para el desarrollo de juegos en el motor Ren'Py.
